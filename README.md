@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Anne Musau
 
-<!--
-**Anna-bit/Anna-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data enthusiast passionate about transforming data into meaningful insights.  
+💻 Tools: SQL | Python | Power BI | Excel  
+📊 Currently building projects in web scraping.
 
-Here are some ideas to get you started:
+## 🔍 Projects
+- [📦 Power BI Supply Chain Dashboard] (https://github.com/annamusau/supply-chain-dashboard)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning:
+- Machine Learning fundamentals  
+
+##👯 I’m looking to collaborate on:
+
+- Real-world **data analytics projects** (e.g., business, finance, social impact)
+- **Open-source dashboards** built with Power BI or Streamlit
+- **Data cleaning and transformation** challenges using excel, SQL or Python
+- Projects focused on **AI, data privacy, or ethical data use**
+- **Community mentorship** or beginner-friendly data project
+
+##🤔 I’m looking for help with web scraping.
+
+##💬 Ask me about pivot tables in excel, SQL techniques
+
+##📫 How to reach me: [reach out](amusau4@gmail.com) or connect [LinkedIn] (https://linkedin.com/in/annamusau)
+
+##⚡ Fun fact: Mentoring girls in tech and building dashboards are two ways I like to create impact - one with people, the other with data. 💡📊
+
+## 🛠️ Tools & Technologies
+- 🐍 Python  🗃️ SQL  📊 Power BI  
+- 🧮 Pandas • NumPy 📝 Jupyter Notebook  
+- 💾 MySQL 🌐 GitHub ⚙️ VS Code
+
