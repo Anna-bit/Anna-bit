@@ -9,6 +9,7 @@
 - [📊 Excel Dashboard] (https://github.com/Anna-bit/Excel-dashboard)
 
 ## 🌱 I’m currently learning:
+- Web Scraping fundamentals
 - Machine Learning fundamentals  
 
 ##👯 I’m looking to collaborate on:
