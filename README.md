@@ -6,6 +6,7 @@
 
 ## 🔍 Projects
 - [📦 Power BI Supply Chain Dashboard] (https://github.com/annamusau/supply-chain-dashboard)
+- [📊 Excel Dashboard] (https://github.com/Anna-bit/Excel-dashboard)
 
 ## 🌱 I’m currently learning:
 - Machine Learning fundamentals  
