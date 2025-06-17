@@ -5,7 +5,7 @@
 📊 Currently building project on web scraping.
 
 ## 🔍 Projects
-- [📦 Power BI Supply Chain Dashboard] (https://github.com/annamusau/supply-chain-dashboard)
+- [📦 Power BI Supply Chain Dashboard] (https://github.com/Anna-bit/Supply-chain-management-system)
 - [📊 Excel Dashboard] (https://github.com/Anna-bit/Excel-dashboard)
 
 ## 🌱 I’m currently learning:
