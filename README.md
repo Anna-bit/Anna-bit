@@ -2,7 +2,7 @@
 
 🎓 Data enthusiast passionate about transforming data into meaningful insights.  
 💻 Tools: SQL | Python | Power BI | Excel  
-📊 Currently building projects in web scraping.
+📊 Currently building project on web scraping.
 
 ## 🔍 Projects
 - [📦 Power BI Supply Chain Dashboard] (https://github.com/annamusau/supply-chain-dashboard)
