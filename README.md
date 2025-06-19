@@ -12,7 +12,7 @@
 - Web Scraping fundamentals
 - Machine Learning fundamentals  
 
-##👯 I’m looking to collaborate on:
+## 👯 I’m looking to collaborate on:
 
 - Real-world **data analytics projects** (e.g., business, finance, social impact)
 - **Open-source dashboards** built with Power BI or Streamlit
@@ -20,16 +20,16 @@
 - Projects focused on **AI, data privacy, or ethical data use**
 - **Community mentorship** or beginner-friendly data project
 
-##🤔 I’m looking for help with web scraping.
-
-##💬 Ask me about pivot tables in excel, SQL techniques, Power BI
-
-##📫 How to reach me: Email: (amusau4@gmail.com) or connect [LinkedIn] (https://www.linkedin.com/in/anne-musau/)
-
-##⚡ Fun fact: Mentoring girls in tech and building dashboards are two ways I like to create impact - one with people, the other with data. 💡📊
+## 🤔 I’m looking for help 
+- Web scraping.
 
 ## 🛠️ Tools & Technologies
 - 🐍 Python  🗃️ SQL  📊 Power BI  
 - 🧮 Pandas • NumPy 📝 Jupyter Notebook  
 - 💾 MySQL 🌐 GitHub ⚙️ VS Code
+  
+##💬 Ask me about pivot tables in excel, SQL techniques, Power BI
 
+##📫 How to reach me: Email: (amusau4@gmail.com) or connect [LinkedIn] (https://www.linkedin.com/in/anne-musau/)
+
+##⚡ Fun fact: Mentoring girls in tech and building dashboards are two ways I like to create impact - one with people, the other with data. 💡📊
