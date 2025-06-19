@@ -22,9 +22,9 @@
 
 ##🤔 I’m looking for help with web scraping.
 
-##💬 Ask me about pivot tables in excel, SQL techniques
+##💬 Ask me about pivot tables in excel, SQL techniques, Power BI
 
-##📫 How to reach me: [reach out](amusau4@gmail.com) or connect [LinkedIn] (https://linkedin.com/in/annamusau)
+##📫 How to reach me: Email: (amusau4@gmail.com) or connect [LinkedIn] (https://www.linkedin.com/in/anne-musau/)
 
 ##⚡ Fun fact: Mentoring girls in tech and building dashboards are two ways I like to create impact - one with people, the other with data. 💡📊
 
